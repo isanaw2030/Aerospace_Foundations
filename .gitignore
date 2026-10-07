@@ -1,0 +1,11 @@
+# Ignore hidden Python folders
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+.venv/
+
+# Ignore system configuration files
+.DS_Store
+.vscode/
