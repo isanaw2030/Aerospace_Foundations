@@ -1,5 +1,5 @@
 # Nested condition
-# 1 Create a program to check for an age checker, age >= 18 == minor, age >=60 == senior adult, else == minor
+# 1 Create a program to check for an age, age >= 18 == Adult, age >=60 == senior adult, else == minor
 # 2 Create a grading program for grades analysis, score >= 80 == excellent, score >= 50 == pass, score else == below average
 
 # 1 Age checker
