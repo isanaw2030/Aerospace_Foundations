@@ -1,0 +1,3 @@
+Average fuel : 97.0 %
+Maximum altitude : 5500 km
+Battery charge : 78 %

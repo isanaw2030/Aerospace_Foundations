@@ -1,0 +1,6 @@
+Rocket Name : Falcon
+Fuel : 98%
+Crew : 4
+-------------------
+Mission Status : Successful
+Warning Counts : 2
