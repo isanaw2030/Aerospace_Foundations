@@ -1,6 +1,4 @@
-Rocket Name : Falcon
-Fuel : 98%
-Crew : 4
--------------------
+Rocket : Falcon Heavy
 Mission Status : Successful
-Warning Counts : 2
+Number of Warnings : 2
+Mission Signal : Strong
