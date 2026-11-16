@@ -209,4 +209,3 @@ sum = lambda a, b: a + b
 sum_result = sum(10, 20)
 
 print(sum_result)
-
